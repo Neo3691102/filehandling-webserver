@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "content": "Hacer la cama"
+    },
+    {
+      "id": 2,
+      "content": "Lavar los platos"
+    },
+    {
+      "id": 3,
+      "content": "Estudiar JavaScript"
+    },
+    {
+      "id": 4,
+      "content": "Hacer las compras"
+    },
+    {
+      "id": 5,
+      "content": "Limpiar mi habitación"
+    },
+    {
+      "id": 6,
+      "content": "Almorzar a tiempo"
+    },
+    {
+      "id": 7,
+      "content": "Nueva nota"
+    },
+    {
+      "id": 8,
+      "content": "Hacer Katas en Codewars"
+    }
+  ]
